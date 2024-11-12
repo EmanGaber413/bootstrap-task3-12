@@ -1,0 +1,18 @@
+.rotate{
+    transform: rotate(30deg) 
+    translatex(20px) translateY(-80px);
+
+}
+
+.rotate-dark{
+    position: relative;
+    transform: rotate(30deg) 
+    translatex(180%) translateY(-100%);
+    
+}
+
+.trans-bg {position: relative;
+    transform: rotate(30deg) 
+    translatex(180%) translateY(-100%);
+z-index: 1000;
+}
