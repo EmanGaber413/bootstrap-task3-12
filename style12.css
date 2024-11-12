@@ -7,12 +7,13 @@
 .rotate-dark{
     position: relative;
     transform: rotate(30deg) 
-    translatex(180%) translateY(-100%);
+    translatex(200%) translateY(-130%);
     
 }
 
-.trans-bg {position: relative;
+.trans-bg {position: ;
     transform: rotate(30deg) 
-    translatex(180%) translateY(-100%);
-z-index: 1000;
+    translatex(-200%) translateY(130%);
+z-index: 100;
 }
+:root{font-size: 20px;}
