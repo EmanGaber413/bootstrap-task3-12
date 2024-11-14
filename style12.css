@@ -1,19 +1,20 @@
 .rotate{
     transform: rotate(30deg) 
-    translatex(20px) translateY(-80px);
+    translate(10%,-20%);
 
 }
 
-.rotate-dark{
-    position: relative;
+.rotate-dark{position: relative;
+    
     transform: rotate(30deg) 
-    translatex(200%) translateY(-130%);
+    translate(200%,-130%);
     
 }
 
-.trans-bg {position: ;
-    transform: rotate(30deg) 
-    translatex(-200%) translateY(130%);
+.trans-bg {position: absolute;
+    transform: rotate(0deg) 
+    translate(17%,15%);
 z-index: 100;
 }
+
 :root{font-size: 20px;}
